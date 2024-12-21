@@ -1,5 +1,3 @@
-# SequenceableCollection Class README
-
 ## Introduction
 
 The `SequenceableCollection` class is a custom data structure designed to store integer numbers efficiently. It combines the advantages of arrays (direct access to elements) and linked lists (dynamic resizing). This README provides a comprehensive explanation of the class implementation, its methods, and how to use it effectively.
